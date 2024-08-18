@@ -1,5 +1,5 @@
 # Comparative Analysis of CNNs for Classifying Alzheimer's Disease 
-> Created for the [IJAS](https://sites.google.com/ijas.org/ijas/about) competition in collaboration with Shrihan Tummala
+> Created for the [IJAS](https://sites.google.com/ijas.org/ijas/about) competition in collaboration with Shrihan Tummala @VenkataST
 
 ## Acknowledgements
 We would like to extend our heartfelt gratitude to our families for their support in helping us pursue our research in this field. And most importantly, we would like to thank our sponsor Dr. Brontman for investing her time into providing valuable and prompt feedback to help us improve our project. This project would not have been possible without her guidance and assistance.
